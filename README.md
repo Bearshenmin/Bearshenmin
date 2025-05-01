@@ -7,8 +7,9 @@ A Taiwanese student
 # My Good Repo List
 | Repo | Link | Description |
 | ------| ---------------| ------------|
-| Bearshenmin/bearshenmin.github.io | [Link](https://github.com/Bearshenmin/bearshenmin.github.io) | My web page |
-| Bearshenmin/Game_toolbox | [Link](https://github.com/Bearshenmin/Game_toolbox) | A Roblox Game toolbox(❌NOT CHEAT) |
+| Where is my repo? |
 [More](https://github.com/Bearshenmin?tab=repositories)
+# My Website
+[link](https://bearshen.top)
 # My Social Media Link
 Lemme think...
