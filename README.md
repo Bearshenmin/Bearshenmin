@@ -10,6 +10,6 @@ A Taiwanese student
 | Where is my repo? |
 [More](https://github.com/Bearshenmin?tab=repositories)
 # My Website
-[link](https://bearshen.top)
+[LINK](https://bearshen.top)
 # My Social Media Link
 Lemme think...
