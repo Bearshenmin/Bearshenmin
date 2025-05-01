@@ -10,6 +10,6 @@
 | 不是我好像沒有作品 |
 [更多](https://github.com/Bearshenmin?tab=repositories)
 # 我的網站
-[Link](https://bearshen.top)
+[LINK](https://bearshen.top)
 # 想聯繫我?
 我不想你聯繫我ㄟ
