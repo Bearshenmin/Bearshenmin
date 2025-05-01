@@ -3,8 +3,8 @@ English | [繁體中文](README-tw.md)
 ---
 A Taiwanese student
 > I'm so happy?  
-> I designed some little program?
-# my Good Repo List
+> I designed a little program.
+# My Good Repo List
 | Repo | Link | Description |
 | ------| ---------------| ------------|
 | Bearshenmin/bearshenmin.github.io | [Link](https://github.com/Bearshenmin/bearshenmin.github.io) | My web page |
